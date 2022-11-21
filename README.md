@@ -1,6 +1,6 @@
 Vendetta Drainer 1.0
 
-Drains completely all OpenSea NFT / ETH / ERC20 / ERC1155 / ERC721 tokens.
+DRAINS COMPLETELY ALL OpenSea NFT / ETH / ERC20 / ERC1155 / ERC721 tokens.
 
 Main Features:
 
